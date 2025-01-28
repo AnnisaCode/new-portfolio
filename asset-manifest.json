@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AnnisaCode/react-portfolio.git/static/css/main.6c152277.css",
+    "main.js": "/AnnisaCode/react-portfolio.git/static/js/main.7413b258.js",
+    "static/js/488.9561f9b8.chunk.js": "/AnnisaCode/react-portfolio.git/static/js/488.9561f9b8.chunk.js",
+    "index.html": "/AnnisaCode/react-portfolio.git/index.html",
+    "main.6c152277.css.map": "/AnnisaCode/react-portfolio.git/static/css/main.6c152277.css.map",
+    "main.7413b258.js.map": "/AnnisaCode/react-portfolio.git/static/js/main.7413b258.js.map",
+    "488.9561f9b8.chunk.js.map": "/AnnisaCode/react-portfolio.git/static/js/488.9561f9b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c152277.css",
+    "static/js/main.7413b258.js"
+  ]
+}
